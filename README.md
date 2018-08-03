@@ -1,7 +1,7 @@
 ## 使用说明如下：
 
 #### 1）dex文件工具使用
-Linux / Mac下使用,必须安装java
+Linux / Mac / Win下使用,必须安装java
 
 把apk或者jar包里的classes.dex文件放在work目录下
 
